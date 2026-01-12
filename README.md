@@ -32,6 +32,7 @@ Boxicons: Biblioteca de ícones vetoriais para os campos de entrada.
 Acesse o link: https://silos-antonio.github.io/Projeto_pag_Netflix/#
 
 🚧 Projeto com futuras melhorias: 
+Implementar Responsividade para visualização em tela mobile.
 Implementação de backend para cadastrar um usuário em um banco de dados.
 Implementação de exibição de informações de filmes com a API do TMDb. 
 
