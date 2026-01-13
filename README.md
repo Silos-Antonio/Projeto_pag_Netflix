@@ -29,7 +29,7 @@ JavaScript (Vanilla): Lógica para alternar classes do container principal e dis
 Boxicons: Biblioteca de ícones vetoriais para os campos de entrada.
 
 📂 Como visualizar o projeto
-Acesse o link: https://silos-antonio.github.io/Projeto_pag_Netflix/#
+Acesse o link: PROJETO EM MIGRAÇÃO.
 
 🚧 Projeto com futuras melhorias: 
 Implementar Responsividade para visualização em tela mobile.
